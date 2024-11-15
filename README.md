@@ -59,9 +59,3 @@ To analyze customer data and perform A/B testing to determine the target age gro
   - `scipy.stats`: For advanced statistical functions.
 
 ---
-
-## <span style="color:darkred;">**How to Use**</span>
-
-### 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/bank-credit-card-analysis.git
